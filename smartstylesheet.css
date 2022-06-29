@@ -556,8 +556,8 @@ footer{
     color: hsla(144, 3%, 49%, 1);
 }
 
-@media(max-width:500px){
+/* @media(max-width:500px){
     .container{
         flex-wrap: wrap;
     }
-}
+} */
